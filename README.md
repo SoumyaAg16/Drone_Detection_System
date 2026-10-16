@@ -1,4 +1,4 @@
-# 🛩️ M3 — Drone Intrusion Detection System (IDS)
+# 🛩️ Drone Intrusion Detection System (IDS)
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-**M3** is the **Detection Engine** of the Drone IDS — a modular, onboard cyber defence system designed for UAV platforms. It continuously monitors MAVLink telemetry, detects cyber-physical attacks in real time, dispatches autonomous failsafes, and produces a tamper-evident forensic log.
+**Detection Engine** of the Drone IDS — a modular, onboard cyber defence system designed for UAV platforms. It continuously monitors MAVLink telemetry, detects cyber-physical attacks in real time, dispatches autonomous failsafes, and produces a tamper-evident forensic log.
 
 The system implements **seven independent detection layers**, statistical threshold derivation from normal flight data, **online adaptive recalibration**, and **HMAC-SHA256 signed alerts** to prevent forgery.
 
